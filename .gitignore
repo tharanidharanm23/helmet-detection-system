@@ -1,0 +1,11 @@
+# Ignore trained model files
+*.pt
+
+# Ignore YOLO output folders
+runs/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore environment files
+.env
